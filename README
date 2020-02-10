@@ -1,0 +1,9 @@
+Prerequisites: Installed JDK11
+
+This is my solution for the programming challenge. To run this, you can simply build the project:
+- On a console, navigate to this project folder and type "./gradlew build" ("gradlew.bat build" on Windows).
+- Press enter and wait until the build is done.
+- You'll find a TAR and ZIP file in ./build/distributions/
+- Choose either one, extract it and run challenge/bin/challenge (or challenge.bat on Windows)
+
+Main-class is org.sourcepond.challenge.app.Application
